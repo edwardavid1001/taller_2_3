@@ -1,2 +1,1 @@
-# taller_2_3
-![image](https://github.com/edwardavid1001/taller_2_3/assets/128154814/72e6f382-4e33-4786-a093-2150d3b74083)
+# taller_2_3este sera el repositorio del taller 2 y 3 en el que se tiene en en cuenta el forulario de registro y login y dbconnection
